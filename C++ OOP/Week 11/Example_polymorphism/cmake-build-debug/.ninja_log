@@ -1,0 +1,7 @@
+# ninja log v6
+3	601	1724143989183971535	CMakeFiles/Example_polymorphism.dir/Rectangle.cpp.o	674fa9073f21a67c
+2	624	1724143989181971533	CMakeFiles/Example_polymorphism.dir/Circle.cpp.o	be44fe2113d85a9d
+2	630	1724143989181971533	CMakeFiles/Example_polymorphism.dir/main.cpp.o	c732e809f8b4f85d
+5	663	1724143989184971535	CMakeFiles/Example_polymorphism.dir/Shape.cpp.o	ae7a315078892c8f
+6	691	1724143989185971536	CMakeFiles/Example_polymorphism.dir/Triangle.cpp.o	58817ade221aa4e4
+691	835	1724143989870972119	Example_polymorphism	70873eae68e2ed9e
